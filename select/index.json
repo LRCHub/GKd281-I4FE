@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "青春と一瞬",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2026-02-14T13:18:02.115418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青春と一瞬",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_青春と一瞬_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青春と一瞬",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_青春と一瞬_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青春と一瞬",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/03_青春と一瞬_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青春と一瞬 (Strings ver.)",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/04_青春と一瞬_(Strings_ver.)_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青春と一瞬 (Strings ver.)",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/05_青春と一瞬_(Strings_ver.)_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青春と一瞬(Strings ver.) - seisyuntoissyun strings ver.",
+      "artist": "macaroni enpitsu",
+      "has_synced": true,
+      "path": "select/06_青春と一瞬(Strings_ver.)_-_seisyuntoissyun_strings_ver._macaroni_enpitsu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マカロニえんぴつ 「青春と一瞬」MV",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/07_マカロニえんぴつ_「青春と一瞬」MV_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春と一瞬",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_青春と一瞬_マカロニえんぴつ.txt"
+    }
+  ]
+}
